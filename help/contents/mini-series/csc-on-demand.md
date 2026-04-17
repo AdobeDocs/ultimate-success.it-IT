@@ -35,7 +35,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Massimizzare le catene di fornitura dei contenuti" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Massimizzare le catene di fornitura dei contenuti"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479094/?captions=ita&format=jpeg&nocache=1773689372143" alt="Massimizzare le catene di fornitura dei contenuti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +127,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management" title="Sessione 5 VRA: strategie di gestione delle modifiche per gestire il Supply chain dei contenuti" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1773689372162" alt="Sessione 5 VRA: strategie di gestione delle modifiche per gestire il Supply chain dei contenuti"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479825/?captions=ita&format=jpeg&nocache=1773689372162" alt="Sessione 5 VRA: strategie di gestione delle modifiche per gestire il Supply chain dei contenuti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
