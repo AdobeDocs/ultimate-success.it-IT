@@ -3,7 +3,7 @@ title: Serie CJA Value Realization Acceleration
 description: Questa serie Customer Journey Analytics on-demand aiuta le organizzazioni a sviluppare una strategia di misurazione basata sui valori che trasforma i dati dei clienti in informazioni affidabili e risultati di business misurabili.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

@@ -3,7 +3,7 @@ title: Serie sulla realizzazione del valore di Content Supply chain
 description: Questa serie illustra come modernizzare il supply chain dei contenuti dalla pianificazione alla misurazione. Le sessioni illustrano gli approcci pratici all'architettura, ai modelli operativi, alla sponsorizzazione esecutiva e alla gestione dei cambiamenti per aumentare l'efficienza, scalare le operazioni sui contenuti e fornire risultati misurabili.
 topic: Content Supply Chain
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

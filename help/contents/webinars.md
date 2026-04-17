@@ -2,7 +2,7 @@
 title: Webinar su Ultimate Success
 description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '10228'
 ht-degree: 0%
@@ -23,7 +23,6 @@ CARDS  ****
 
 * https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/enriching-adobe-commerce
 * https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/transforming-b2b-commerce
-
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->

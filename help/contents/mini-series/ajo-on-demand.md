@@ -3,7 +3,7 @@ title: Serie AJO Value Realization Acceleration
 description: La serie Adobe Journey Optimizer Value Realization guida i team nell’attivazione di un coinvolgimento personalizzato in tempo reale attraverso una chiara strategia del valore. Queste sessioni descrivono roadmap dei casi d’uso, architettura, modelli operativi e preparazione organizzativa per accelerare il time-to-value e massimizzare l’adozione di AJO.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -145,3 +145,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
