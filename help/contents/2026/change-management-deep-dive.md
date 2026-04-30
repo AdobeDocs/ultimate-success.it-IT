@@ -26,7 +26,7 @@ Unisciti a noi per una sessione di lavoro interattiva sulla gestione delle modif
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-Questa sessione richiede poco o nessun pre-lavoro.  Se lo desideri, puoi guardare la registrazione delle [strategie di gestione delle modifiche](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) dalla [serie VRA](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), supportare i team a qualsiasi livello di maturità e garantire che ogni partecipante lasci un piano di modifica tangibile di una pagina direttamente allineato ai suoi casi d&#39;uso di AJO.
+Questa sessione richiede poco o nessun pre-lavoro.  Se lo desideri, puoi guardare la registrazione delle [strategie di gestione delle modifiche](https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) dalla [serie VRA](https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), supportare i team a qualsiasi livello di maturità e garantire che ogni partecipante lasci un piano di modifica tangibile di una pagina direttamente allineato ai suoi casi d&#39;uso di AJO.
 
 Questa sessione si è concentrata su,
 
