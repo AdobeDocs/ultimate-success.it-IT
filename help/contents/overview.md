@@ -2,7 +2,7 @@
 title: Libreria di webinar Ultimate Success
 description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -18,7 +18,8 @@ Accedi alla nostra libreria completa di webinar condotti da esperti e progettati
 
 Esplora la nostra raccolta di webinar on-demand progettati per aiutarti a massimizzare il valore delle soluzioni Adobe Experience Platform (AEP). Creata per i clienti Ultimate, ogni sessione offre indicazioni fruibili, strategie comprovate ed esempi reali per aiutarti a prendere decisioni più intelligenti e ottenere risultati più solidi, secondo la tua pianificazione.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -207,7 +208,8 @@ Esplora le registrazioni on-demand dalla serie Adobe Value Realization, progetta
 
 Ogni sessione mirata evidenzia un pilastro fondamentale del Value Realization Framework, offrendo indicazioni pratiche e artefatti comprovati per supportare la pianificazione strategica, accelerare il time-to-value e favorire risultati significativi. Sfoglia le serie specifiche per prodotto e settore per vedere come i team attivano la strategia, allineano le parti interessate e passano dall’adozione all’impatto.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
   {cta  = View series}
   
