@@ -1,20 +1,20 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+usetq: true
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/discontinued.it-IT
+git-repo: https://github.com/AdobeDocs/discontinued.en
 auto-video-transcripts: true
 hide: true
 debug: yes
 author: various
-source-git-commit: b419da8dc57676fdd7f8b6a01d4a6cea7b8e81b2
+source-git-commit: bf8d77232d834eba37c3a28ee332f5976fc96009
 workflow-type: tm+mt
 source-wordcount: 68
-ht-degree: 76%
+ht-degree: 94%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 76%
 
 Il file metadata.md include metadati a livello di archivio che vengono trasmessi ai file TOC.md della guida utente presente nell’archivio stesso. Se desideri modificare il contenuto del file metadata.md per qualsiasi Guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html).
+Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it).
