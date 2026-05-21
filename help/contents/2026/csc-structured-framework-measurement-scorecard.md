@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Con la crescente complessità dei contenuti, molte organizzazioni faticano a dimostrare chiaramente il valore aziendale delle operazioni relative ai contenuti. Questo webinar introduce un approccio strutturato e basato sui risultati per misurare il valore in Content Supply chain, aiutandoti a definire KPI significativi, collegare gli investimenti di contenuti all’impatto aziendale e stabilire una scorecard di misurazione pronta per l’esecutivo per la realizzazione di valore continuo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491246/?captions=ita&learn=on&enablevpops)
