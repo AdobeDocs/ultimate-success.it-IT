@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Fornire esperienze cliente personalizzate in tempo reale richiede più dei soli dati del cliente. Si basa su decisioni intelligenti per valutare più opzioni e fornire quella più rilevante al momento giusto. Utilizzando Adobe Journey Optimizer, i brand possono strutturare le esperienze, applicare logica decisionale e scalare la personalizzazione tra i percorsi di clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486513/?captions=ita&learn=on&enablevpops)
 
 Questa sessione illustra l’importanza del decisioning intelligente, il suo funzionamento e i vantaggi per il business. Scopri in che modo le strutture fondamentali come gli schemi di catalogo e le raccolte di offerte semplificano la scalabilità, mentre strumenti come le regole di decisione e i modelli di intelligenza artificiale ottimizzano la consegna personalizzata. Scopri i metodi per la classificazione dinamica delle offerte, incluso l’utilizzo di modelli basati sull’intelligenza artificiale per l’ottimizzazione personalizzata.
 
