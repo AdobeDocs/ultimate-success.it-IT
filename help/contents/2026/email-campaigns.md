@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Questo webinar illustra come Adobe GenStudio for Performance Marketing si integra con Marketo Engage per semplificare le campagne e-mail. Illustra i requisiti di configurazione, incluso l’accesso condiviso all’organizzazione IMS e il nuovo e-mail designer, e offre una demo live che mostra come importare in Marketo le esperienze e-mail create da GenStudio. Il webinar tratta anche la creazione di modelli e-mail in Marketo compatibili con GenStudio, evidenziando i vantaggi dell’integrazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491514/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491521/?captions=ita&learn=on&enablevpops)
 
 Un elemento chiave è l’efficienza e la modularità fornite dal nuovo e-mail designer, che supporta i moduli di trascinamento e l’allineamento con l’ecosistema di Adobe. Questa integrazione consente agli addetti al marketing di risparmiare tempo, migliorare la collaborazione e distribuire campagne e-mail mirate in modo efficace.
 
