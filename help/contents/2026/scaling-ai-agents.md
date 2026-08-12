@@ -2,8 +2,12 @@
 title: Ridimensionamento degli agenti Adobe AI - Audience Agent e Data Insights Agent
 description: Scopri come Audience Agent e Data Insights Agent trasformano l’utilizzo dell’intelligenza artificiale ad hoc in flussi di lavoro ripetibili per la segmentazione, la gestione dell’audience e l’analisi delle campagne.
 product: Customer Journey Analytics
-role: DeveloperUser
-level: BeginnerIntermediate
+role:
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

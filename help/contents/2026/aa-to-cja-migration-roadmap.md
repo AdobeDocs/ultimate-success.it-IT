@@ -2,8 +2,13 @@
 title: 'Da Adobe Analytics a Customer Journey Analytics: roadmap per la migrazione'
 description: Scopri i passaggi per migrare da Adobe Analytics a Customer Journey Analytics. Ottieni informazioni approfondite su strategia di identità, convalida dei dati e altro ancora.
 product: Customer Journey Analytics
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

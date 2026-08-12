@@ -2,8 +2,13 @@
 title: Ridimensionamento degli agenti Adobe - Brand Experience Agent
 description: Scopri come Adobe Brand Experience Agent può semplificare i flussi di lavoro, accelerare la produzione dei contenuti e garantire la governance per un valore aziendale scalabile.
 product: Workfront
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

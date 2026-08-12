@@ -3,7 +3,9 @@ title: Dall’esperimento ad Insight - CJA4T per Personalization per app mobili
 description: Scopri come CJA4T collega le esperienze delle app mobili Adobe Target a informazioni cross-channel, consentendo una migliore personalizzazione e ottimizzazione.
 product: Customer Journey Analytics
 role: User
-level: BeginnerIntermediate
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

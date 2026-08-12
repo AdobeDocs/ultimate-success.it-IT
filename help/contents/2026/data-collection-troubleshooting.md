@@ -2,8 +2,12 @@
 title: 'Risoluzione dei problemi di raccolta dati: suggerimenti, trucchi e best practice per la governance'
 description: Scopri modi efficaci per risolvere i problemi di Adobe Analytics e Web SDK con tecniche basate sulla governance per convalidare i dati e risolvere i problemi più rapidamente.
 product: Customer Journey Analytics
-role: AdminDeveloper
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

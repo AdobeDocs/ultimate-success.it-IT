@@ -2,8 +2,15 @@
 title: Informazioni sull’intelligenza artificiale e l’architettura agentica di Adobe per le esigenze aziendali
 description: Scopri in che modo l’architettura di intelligenza artificiale e agentica di Adobe si allinea ai risultati aziendali, massimizza gli investimenti Adobe e consente un’adozione scalabile con una solida governance.
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
