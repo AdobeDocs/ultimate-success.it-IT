@@ -28,7 +28,7 @@ ht-degree: 2%
 
 Scopri come Brand Experience Agent può accelerare la produzione dei contenuti, la modernizzazione e lo sviluppo dei siti, preservando al contempo la revisione e la governance umane. Scopri perché la standardizzazione di flussi di lavoro ripetitivi e di alto valore è essenziale per offrire un valore aziendale scalabile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496973/?captions=ita&learn=on&enablevpops)
 
 ## Cosa imparerai
 
