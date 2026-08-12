@@ -3,9 +3,9 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 1ae82130a91f1565b836c157e2d8e66a7bbb66b9
+source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
@@ -36,6 +36,13 @@ ht-degree: 1%
   + {hide-from-toc}[Istruzioni caso d&#39;uso effettivo](../contents/2026/effective-use-case-statements.md)
   + {hide-from-toc}[Mantenimento dell&#39;adozione dopo il lancio](../contents/2026/operational-drift.md)
   + {hide-from-toc}[Gestione di team con più aree geografiche](../contents/2026/multi-region-teams.md)
-  + {hide-from-toc}[Funzionalità di personalizzazione nell&#39;esperienza del cliente](../contents/2026/personalisation-capabilities.md)
   + {hide-from-toc}[Agenti GenAI di Adobe Experience Manager](../contents/2026/genai-agents-aem.md)
   + {hide-from-toc}[Generazione e assegnazione di priorità ai casi d&#39;uso di AJO](../contents/2026/ajo-use-cases.md)
+  + {hide-from-toc}[Perché desideri revisioni e approvazioni unificate in Workfront](../contents/2026/unified-review-approvals-workfront.md)
+  + {hide-from-toc}[Audience Agent e Data Insights Agent](../contents/2026/scaling-ai-agents.md)
+  + {hide-from-toc}[Ridimensionamento degli agenti Adobe - Journey Agent](../contents/2026/journey-agent.md)
+  + {hide-from-toc}[Ridimensionamento degli agenti Adobe - Brand Experience Agent](../contents/2026/brand-experience-agent.md)
+  + {hide-from-toc}[Risoluzione dei problemi di raccolta dati](../contents/2026/data-collection-troubleshooting.md)
+  + {hide-from-toc}[Roadmap per la migrazione da Adobe Analytics a Customer Journey Analytics](../contents/2026/aa-to-cja-migration-roadmap.md)
+  + {hide-from-toc}[CJA4T per Personalization per app mobili](../contents/2026/cja4t-mobile-app-personalization.md)
+  + {hide-from-toc}[Architettura Agentic e AI di Adobe](../contents/2026/understand-adobe-ai-agentic-architecture.md)
