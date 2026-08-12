@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Questa sessione fornisce un framework dettagliato per allineare le funzionalità di intelligenza artificiale di Adobe agli obiettivi aziendali. Si concentra sull’ottimizzazione degli investimenti in Adobe e sull’adozione di soluzioni scalabili con una maggiore prontezza e governance dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496964/?captions=ita&learn=on&enablevpops)
 
 ## Cosa imparerai
 
