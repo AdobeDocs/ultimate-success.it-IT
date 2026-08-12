@@ -2,14 +2,8 @@
 title: Ridimensionamento degli agenti Adobe - Journey Agent
 description: Scopri come Adobe Journey Agent combina i flussi di lavoro di intelligenza artificiale con la supervisione umana per ottimizzare la creazione e la governance del percorso.
 product: Journey Optimizer
-role:
-  - Admin
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
-  - Experienced
+role: Admin, Leader, User
+level: Beginner, Intermediate, Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -17,7 +11,7 @@ jira: KT-22286
 duration: 3337
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 3%

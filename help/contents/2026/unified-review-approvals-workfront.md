@@ -2,13 +2,8 @@
 title: Perché desideri Revisione e approvazioni unificate in Workfront
 description: Scopri in che modo Adobe Workfront Unified Review & Approval semplifica i processi di revisione dei contenuti, migliora la collaborazione e aumenta l’efficienza.
 product: Workfront
-role:
-  - Admin
-  - Developer
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -16,7 +11,7 @@ jira: KT-22309
 duration: 3313
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
