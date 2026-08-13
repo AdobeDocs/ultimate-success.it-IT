@@ -1,7 +1,7 @@
 ---
 title: Ridimensionamento degli agenti Adobe - Brand Experience Agent
 description: Scopri come Adobe Brand Experience Agent può semplificare i flussi di lavoro, accelerare la produzione dei contenuti e garantire la governance per un valore aziendale scalabile.
-product: Workfront
+solution: Workfront
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Scopri come Brand Experience Agent può accelerare la produzione dei contenuti, la modernizzazione e lo sviluppo dei siti, preservando al contempo la revisione e la governance umane. Scopri perché la standardizzazione di flussi di lavoro ripetitivi e di alto valore è essenziale per offrire un valore aziendale scalabile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496973/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
 
 ## Cosa imparerai
 
