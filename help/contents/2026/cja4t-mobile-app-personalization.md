@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Scopri come collegare le esperienze delle app mobili Adobe Target alle azioni a valle attraverso i canali con CJA4T. Questa sessione fornisce indicazioni sull’unione delle identità, l’architettura dei dati, la configurazione del reporting e l’evitare problemi di configurazione comuni. Ottieni una visione più completa dell’impatto della personalizzazione e prendi decisioni migliori in materia di ottimizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496984/?captions=ita&learn=on&enablevpops)
 
 ## Cosa imparerai
 
