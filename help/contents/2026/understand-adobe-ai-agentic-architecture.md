@@ -1,7 +1,7 @@
 ---
 title: Informazioni sull’intelligenza artificiale e l’architettura agentica di Adobe per le esigenze aziendali
 description: Scopri in che modo l’architettura di intelligenza artificiale e agentica di Adobe si allinea ai risultati aziendali, massimizza gli investimenti Adobe e consente un’adozione scalabile con una solida governance.
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
