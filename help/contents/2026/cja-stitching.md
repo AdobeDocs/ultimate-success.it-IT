@@ -2,8 +2,13 @@
 title: Miglioramento di Cross-Channel Insights con Adobe Customer Journey Analytics Stitching
 description: Scopri in che modo l’unione di Adobe CJA sblocca l’analisi cross-channel a livello di persona, migliorando la generazione di rapporti, attribuzione e pubblico.
 product: Journey Optimizer
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
