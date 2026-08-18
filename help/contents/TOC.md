@@ -3,9 +3,9 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
+source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -47,3 +47,4 @@ ht-degree: 1%
   + {hide-from-toc}[CJA4T per Personalization per app mobili](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Architettura Agentic e AI di Adobe](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc}[Modello operativo scalabile per Adobe Workfront](../contents/2026/scalable-operating-model.md)
+  + {hide-from-toc}[Unione Adobe Customer Journey Analytics](../contents/2026/cja-stitching.md)
