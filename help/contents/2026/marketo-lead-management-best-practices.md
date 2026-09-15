@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Scopri l’approccio consigliato di Adobe alla gestione dei lead e come marketing e vendite possono funzionare da un framework condiviso per la qualifica, il follow-up e la misurazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502996/?captions=ita&learn=on&enablevpops)
 
 ## Panoramica
 
