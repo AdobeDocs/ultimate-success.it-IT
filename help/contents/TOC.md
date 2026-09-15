@@ -3,13 +3,11 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 82315d7447d9a8daab5b596df5f95c02226be1cd
+source-git-commit: 72af96fb4f167de5866475d5a810a0bd287fb98a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '240'
 ht-degree: 0%
-
 ---
-
 
 # Libreria di webinar Ultimate Success {#ultimate-success-webinar-library}
 
@@ -50,3 +48,10 @@ ht-degree: 0%
   + {hide-from-toc}[Unione Adobe Customer Journey Analytics](../contents/2026/cja-stitching.md)
   + {hide-from-toc}[Trasformazione dei casi d&#39;uso in risultati aziendali](../contents/2026/use-cases-into-business-outcomes.md)
   + {hide-from-toc}[Sessione di rilascio del prodotto AJO](../contents/2026/ajo-product-relelase-session.md)
+  + {hide-from-toc}[Funzionalità IA in Adobe Experience Manager Assets](../contents/2026/ai-features-aem-assets.md)
+  + {hide-from-toc}[Best practice per la gestione dei lead Marketo Engage](../contents/2026/marketo-lead-management-best-practices.md)
+  + {hide-from-toc}[Decisioni di marketing più intelligenti con Adobe Mix Modeler](../contents/2026/smarter-marketing-mix-modeler.md)
+  + {hide-from-toc}[Ulteriori informazioni da Workfront Planning](../contents/2026/get-more-from-workfront-planning.md)
+  + {hide-from-toc}[Best practice per l&#39;osservabilità e il monitoraggio di Adobe Commerce](../contents/2026/commerce-observability-monitoring.md)
+  + {hide-from-toc}[Pianificazione strategica per il successo CXO](../contents/2026/strategic-planning-cxo-success.md)
+  + {hide-from-toc}[Abilità agente AEM](../contents/2026/ai-assisted-development.md)
