@@ -3,9 +3,9 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 72af96fb4f167de5866475d5a810a0bd287fb98a
+source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '243'
 ht-degree: 0%
 ---
 
@@ -55,3 +55,4 @@ ht-degree: 0%
   + {hide-from-toc}[Best practice per l&#39;osservabilità e il monitoraggio di Adobe Commerce](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc}[Pianificazione strategica per il successo CXO](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[Abilità agente AEM](../contents/2026/ai-assisted-development.md)
+  + {hide-from-toc}[Con tag, Governato, Attivato](../contents/2026/metadata-backbone-content-at-scale.md)
