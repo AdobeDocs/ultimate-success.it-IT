@@ -6,24 +6,33 @@ role: User
 level: Beginner, Intermediate
 doc-type: Event
 type: Event
-last-substantial-update: 2026-08-12T00:00:00Z
+last-substantial-update: 2026-08-12T00:00:00.000Z
 jira: KT-22282
 duration: 2118
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 2%
-
 ---
-
 
 # Dall’esperimento ad insight: CJA4T per la personalizzazione delle app mobili
 
 Scopri come collegare le esperienze delle app mobili Adobe Target alle azioni a valle attraverso i canali con CJA4T. Questa sessione fornisce indicazioni sull’unione delle identità, l’architettura dei dati, la configurazione del reporting e l’evitare problemi di configurazione comuni. Ottieni una visione più completa dell’impatto della personalizzazione e prendi decisioni migliori in materia di ottimizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496984/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
 
 ## Cosa imparerai
 
