@@ -3,13 +3,14 @@ title: Serie CJA Value Realization Acceleration
 description: Questa serie Customer Journey Analytics on-demand aiuta le organizzazioni a sviluppare una strategia di misurazione basata sui valori che trasforma i dati dei clienti in informazioni affidabili e risultati di business misurabili.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 0%
-
+source-wordcount: '776'
+ht-degree: 25%
 ---
-
 
 # Serie CJA Value Realization Acceleration
 
@@ -48,7 +49,7 @@ CARDS  ****
                     <p class="is-size-6">Sfrutta al massimo il valore di CJA con le roadmap dei casi d’uso, gli esempi reali e i passaggi per prendere decisioni strategiche basate sui dati.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/roadmap-to-value-cja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -71,7 +72,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri come un’architettura NorthStar può ridurre il debito tecnico, semplificare l’adozione di Adobe Customer Journey Analytics e supportare implementazioni Adobe Experience Platform scalabili e allineate.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-vision" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -94,7 +95,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri come creare un modello operativo scalabile e interfunzionale che allinei il programma di misurazione CJA agli obiettivi strategici e favorisca l’efficienza e l’impatto a lungo termine.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-operating-model" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -117,7 +118,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri le strategie per ottenere la sponsorizzazione esecutiva per il successo di Adobe Customer Journey Analytics. Allineamento, budget sicuri e processi decisionali basati sui dati.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-success" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -140,7 +141,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri le strategie di gestione dei cambiamenti per garantire il successo dell’adozione di Customer Journey Analytics. Supera la resistenza, allinea i team e tieni traccia della realizzazione del valore in modo efficace.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-adoption" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>

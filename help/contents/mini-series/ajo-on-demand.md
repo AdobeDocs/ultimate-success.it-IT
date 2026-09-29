@@ -3,13 +3,14 @@ title: Serie AJO Value Realization Acceleration
 description: La serie Adobe Journey Optimizer Value Realization guida i team nell’attivazione di un coinvolgimento personalizzato in tempo reale attraverso una chiara strategia del valore. Queste sessioni descrivono roadmap dei casi d’uso, architettura, modelli operativi e preparazione organizzativa per accelerare il time-to-value e massimizzare l’adozione di AJO.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 0%
-
+source-wordcount: '851'
+ht-degree: 23%
 ---
-
 
 # Serie AJO Value Realization Acceleration
 
@@ -46,7 +47,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri come progettare una strategia di rollout dei casi d’uso di Adobe Journey Optimizer che consenta di ottenere risultati misurabili. Scopri suggerimenti pratici ed esempi pratici per aumentare il valore aziendale.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/ajo-roadmap-to-value" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -69,7 +70,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri in che modo l’utilizzo di un’architettura NorthStar può aiutare a diagnosticare le lacune nell’implementazione e a mantenere l’allineamento organizzativo intorno a AJO e all’intero stack di soluzioni Adobe.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/northstar-architecture-enable-adobe-journey-optimzier" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -92,7 +93,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri in che modo un modello operativo coeso aumenta l’efficienza, evita problemi di risorse e ridimensiona il programma di marketing per garantirne il successo a lungo termine.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/design-an-operating-model-ajo" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -115,7 +116,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri in che modo i leader esecutivi promuovono i programmi AJO, allineano i team e guidano i risultati con strategie per il coinvolgimento e la leadership degli sponsor.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/build-executive-sponsorship-ajo" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -138,7 +139,7 @@ CARDS  ****
                     <p class="is-size-6">Scopri le strategie per la leadership, la collaborazione e il coinvolgimento in tempo reale per sfruttare appieno il valore di Adobe Journey Optimizer.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
