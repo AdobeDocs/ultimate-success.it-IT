@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503934/?captions=ita&learn=on&enablevpops)
 
 # Dalla bozza alla consegna: chiusura dell&#39;intervallo di revisione e approvazione WIP
 
