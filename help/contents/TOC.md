@@ -3,17 +3,19 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
+source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '264'
 ht-degree: 0%
 ---
 
 # Libreria di webinar Ultimate Success {#ultimate-success-webinar-library}
 
 + [Panoramica](overview.md)
++ {hide-from-toc}[IA panoramica](overview-ai.md)
 + [Webinar](webinars.md)
 + Contenuti della mini-serie {#mini-series}
+  + {hide-from-toc}[Nozioni di base sull&#39;intelligenza artificiale](mini-series/ai-essentials.md)
   + [Serie CJA Value Realization Acceleration](mini-series/cja-on-demand.md)
   + [Serie AJO Value Realization Acceleration](mini-series/ajo-on-demand.md)
   + [Serie sulla realizzazione del valore CSC](mini-series/csc-on-demand.md)
@@ -58,3 +60,4 @@ ht-degree: 0%
   + {hide-from-toc}[Con tag, Governato, Attivato](../contents/2026/metadata-backbone-content-at-scale.md)
   + {hide-from-toc}[Sblocca il futuro della crescita B2B](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[Chiusura dell&#39;intervallo di revisione e approvazione WIP](../contents/2026/wip-review-approval-gap.md)
+  + {hide-from-toc}[Generazione per la scala AI](../contents/2026/building-for-ai-scale.md)
