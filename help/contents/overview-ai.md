@@ -2,21 +2,15 @@
 title: Libreria di webinar Ultimate Success
 description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Libreria di webinar Ultimate Success
 
 Accedi alla nostra libreria completa di webinar condotti da esperti e progettati per accelerare la tua padronanza delle best practice strategiche e tecniche realizzate esclusivamente per i nostri clienti Ultimate Success. Dai concetti fondamentali alle strategie di implementazione avanzate, questi webinar descrivono tutto ciò che è necessario per raggiungere risultati di business misurabili.
-
-## Adobe AI Essentials
-
-Bacon ipsum dolor amet pancetta pancetta picanha shank, prosciutto biltong polonia maiale lombo doner landjaeger. Tacchino costole di ricambio filetto mignon pancetta macinato rotondo leberkas spalla tamburo jerky palla punta. Costole corte frankfurter chuck shankle prosciutto hock tripunta, filetto mignon coda mucca macinato rotondo boudin chislic drumstick. Capicola jowl coste corte, spalla frankfurter costole di ricambio maiale lombo grossa grossa grossa grossa fesa tacchino boudin salame rotondo. Jowl shankle landjaeger prosciutto porchetta turducken chislic chuck. Manzo caviglia turducken, landjaeger corto costole lombo corto pancetta costine di ricambio corned beef porchetta polony kevin jowl maiale chop.
-
-[Visualizza tutti i webinar](./webinars.md)
 
 ## Webinar
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Valore trainante nel Supply chain dei contenuti: una scorecard di framework strutturato e misurazione" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491246/?captions=ita&format=jpeg&nocache=1790984045136" alt="Valore trainante nel Supply chain dei contenuti: una scorecard di framework strutturato e misurazione"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="Valore trainante nel Supply chain dei contenuti: una scorecard di framework strutturato e misurazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Serie sulla realizzazione del valore di Content Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479094/?captions=ita&format=jpeg&nocache=1773689372143" alt="Serie sulla realizzazione del valore di Content Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Serie sulla realizzazione del valore di Content Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
