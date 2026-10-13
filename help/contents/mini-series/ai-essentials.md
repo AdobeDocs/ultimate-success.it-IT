@@ -1,16 +1,16 @@
 ---
 title: Nozioni di base su AI
-description: Bacon ipsum dolor amet pancetta pancetta picanha shank, prosciutto biltong polonia maiale lombo doner landjaeger. roadmap dei casi d’uso, architettura, modelli operativi e preparazione organizzativa per accelerare il time-to-value e massimizzare l’adozione di AJO.
+description: Scopri Adobe AI con sessioni on-demand sui concetti di base e le funzionalità di intelligenza artificiale pratiche nei prodotti Adobe Customer Experience Orchestration.
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
 workflow-type: tm+mt
-source-wordcount: '1246'
-ht-degree: 28%
+source-wordcount: '1310'
+ht-degree: 30%
 ---
 
 # Serie AI Essentials
 
-Bacon ipsum dolor amet pancetta pancetta picanha shank, prosciutto biltong polonia maiale lombo doner landjaeger. Tacchino costole di ricambio filetto mignon pancetta macinato rotondo leberkas spalla tamburo jerky palla punta. Costole corte frankfurter chuck shankle prosciutto hock tripunta, filetto mignon coda mucca macinato rotondo boudin chislic drumstick. Capicola jowl coste corte, spalla frankfurter costole di ricambio maiale lombo grossa grossa grossa grossa fesa tacchino boudin salame rotondo. Jowl shankle landjaeger prosciutto porchetta turducken chislic chuck. Manzo caviglia turducken, landjaeger corto costole lombo corto pancetta costine di ricambio corned beef porchetta polony kevin jowl maiale chop.
+Crea una base pratica in Adobe AI con questa serie on-demand. Approfondisci i concetti fondamentali delle funzionalità di intelligenza artificiale oppure approfondisci le sessioni dedicate all’applicazione pratica delle funzioni di intelligenza artificiale all’interno dei prodotti Adobe Customer Experience Orchestration.
 
 ## Creare le basi
 
@@ -29,7 +29,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/on-demand-events/embedded-intelligence" title="Spostamento all&apos;intelligenza incorporato" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1790984011805" alt="Spostamento all&apos;intelligenza incorporato"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="Spostamento all&apos;intelligenza incorporato"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -52,7 +52,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/on-demand-events/ai-agents" title="Agenti IA in AEP: panoramica" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1790984011790" alt="Agenti IA in AEP: panoramica"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1791840290152" alt="Agenti IA in AEP: panoramica"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,6 +82,7 @@ CARDS  ****
 
 * https://experienceleague.adobe.com/it/on-demand-events/ai-beyond-basics
 * https://experienceleague.adobe.com/it/on-demand-events/cja-data-insights-agent
+* https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja
 * https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -91,7 +92,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/on-demand-events/ai-beyond-basics" title="Assistente AI - Oltre le nozioni di base" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463366/?captions=ita&format=jpeg&nocache=1790984012630" alt="Assistente AI - Oltre le nozioni di base"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463366/?captions=ita&format=jpeg&nocache=1791840290822" alt="Assistente AI - Oltre le nozioni di base"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,7 +115,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/on-demand-events/cja-data-insights-agent" title="Conversazioni con i tuoi dati - CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1790984012667" alt="Conversazioni con i tuoi dati - CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1791840290776" alt="Conversazioni con i tuoi dati - CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,12 +133,35 @@ CARDS  ****
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Operationalizing Adobe Data Insights Agent in CJA">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" title="Operazionalizzazione di Adobe Data Insights Agent in CJA" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1791840290897" alt="Operazionalizzazione di Adobe Data Insights Agent in CJA"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" title="Operazionalizzazione di Adobe Data Insights Agent in CJA">Operazionalizzazione di Adobe Data Insights Agent in CJA</a>
+                    </p>
+                    <p class="is-size-6">Scopri come integrare Adobe Data Insights Agent nei flussi di lavoro di Customer Journey Analytics, consentendo informazioni più veloci e processi decisionali scalabili.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Scaling Adobe AI Agents - Audience Agent & Data Insights Agent">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" title="Ridimensionamento degli agenti Adobe AI - Audience Agent e Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1790984013113" alt="Ridimensionamento degli agenti Adobe AI - Audience Agent e Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1791840290912" alt="Ridimensionamento degli agenti Adobe AI - Audience Agent e Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +199,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" title="Funzioni di intelligenza artificiale in Adobe Experience Manager Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1790984013690" alt="Funzioni di intelligenza artificiale in Adobe Experience Manager Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1791840291754" alt="Funzioni di intelligenza artificiale in Adobe Experience Manager Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +222,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" title="Abilità dell’agente AEM - Sviluppo assistito da intelligenza artificiale eseguito correttamente" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1790984013704" alt="Abilità dell’agente AEM - Sviluppo assistito da intelligenza artificiale eseguito correttamente"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1791840291747" alt="Abilità dell’agente AEM - Sviluppo assistito da intelligenza artificiale eseguito correttamente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +260,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/on-demand-events/accelerating-digital-experience-optimization" title="Accelerazione dell’ottimizzazione delle esperienze digitali con informazioni basate sull’intelligenza artificiale" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1790984014193" alt="Accelerazione dell’ottimizzazione delle esperienze digitali con informazioni basate sull’intelligenza artificiale"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1791840292430" alt="Accelerazione dell’ottimizzazione delle esperienze digitali con informazioni basate sull’intelligenza artificiale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +283,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/on-demand-events/ai-adobe-target" title="Sbloccare la potenza dell’intelligenza artificiale - Sperimentazione avanzata con Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1790984014257" alt="Sbloccare la potenza dell’intelligenza artificiale - Sperimentazione avanzata con Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1791840292451" alt="Sbloccare la potenza dell’intelligenza artificiale - Sperimentazione avanzata con Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
