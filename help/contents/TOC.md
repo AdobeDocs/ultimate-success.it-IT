@@ -3,7 +3,7 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: b450770a372822b53b61ea0cca69230996e8c4a4
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -61,3 +61,4 @@ ht-degree: 0%
   + {hide-from-toc}[Chiusura dell&#39;intervallo di revisione e approvazione WIP](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc}[Generazione per la scala AI](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[Esperienze basate su codice di AJO](../contents/2026/strategies-for-smarter-personalization.md)
+
