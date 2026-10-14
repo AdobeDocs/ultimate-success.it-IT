@@ -2,10 +2,10 @@
 title: Libreria di webinar Ultimate Success
 description: Esplora la nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che forniscono risultati di business misurabili.
 hide: true
-source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
+source-git-commit: 3e0476c188642f2642d7d67b0c27e08a26895f10
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 16%
+source-wordcount: '828'
+ht-degree: 15%
 ---
 
 # Libreria di webinar Ultimate Success
@@ -14,7 +14,7 @@ Accedi alla nostra libreria completa di webinar condotti da esperti e progettati
 
 ## Webinar
 
-Esplora la nostra raccolta di webinar on-demand progettati per aiutarti a massimizzare il valore delle soluzioni Adobe Experience Platform (AEP). Creata per i clienti Ultimate, ogni sessione offre indicazioni fruibili, strategie comprovate ed esempi reali per aiutarti a prendere decisioni più intelligenti e ottenere risultati più solidi, secondo la tua pianificazione.
+Esplora la nostra raccolta di webinar on-demand progettati per aiutarti a massimizzare il valore delle soluzioni Adobe Experience Platform (AEP). Creata per i clienti Ultimate, ogni sessione offre indicazioni fruibili, strategie comprovate ed esempi reali per aiutarti a prendere decisioni più intelligenti e ottenere risultati più solidi secondo la tua pianificazione.
 
 <!-- 
 CARDS  ****
