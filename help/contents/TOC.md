@@ -3,19 +3,18 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
+source-git-commit: b450770a372822b53b61ea0cca69230996e8c4a4
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 
 # Libreria di webinar Ultimate Success {#ultimate-success-webinar-library}
 
 + [Panoramica](overview.md)
-+ {hide-from-toc}[IA panoramica](overview-ai.md)
 + [Webinar](webinars.md)
 + Contenuti della mini-serie {#mini-series}
-  + {hide-from-toc}[Nozioni di base sull&#39;intelligenza artificiale](mini-series/ai-essentials.md)
+  + [Nozioni di base su AI](mini-series/ai-essentials.md)
   + [Serie CJA Value Realization Acceleration](mini-series/cja-on-demand.md)
   + [Serie AJO Value Realization Acceleration](mini-series/ajo-on-demand.md)
   + [Serie sulla realizzazione del valore CSC](mini-series/csc-on-demand.md)

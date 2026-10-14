@@ -2,7 +2,7 @@
 title: Nozioni di base su AI
 description: Scopri Adobe AI con sessioni on-demand sui concetti di base e le funzionalità di intelligenza artificiale pratiche nei prodotti Adobe Customer Experience Orchestration.
 hide: true
-source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
+source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
 workflow-type: tm+mt
 source-wordcount: '1310'
 ht-degree: 30%
