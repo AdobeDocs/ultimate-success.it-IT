@@ -3,9 +3,9 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
+source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '293'
 ht-degree: 0%
 ---
 
@@ -62,4 +62,7 @@ ht-degree: 0%
   + {hide-from-toc}[Generazione per la scala AI](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[Esperienze basate su codice di AJO](../contents/2026/strategies-for-smarter-personalization.md)
   + {hide-from-toc}[Guida introduttiva alle API REST di Campaign](../contents/2026/getting-started-campaign-rest-apis.md)
+  + {hide-from-toc}[Assistente di AEM AI e Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
+  + {hide-from-toc}[Ridimensionamento della produzione con Designer e-mail per Campaign](../contents/2026/scale-production-campaign-email-designer.md)
+  + {hide-from-toc}[Connessione degli investimenti agenti di IA all&#39;impatto aziendale](../contents/2026/ai-agentic-investments-to-business-impact.md)
 
