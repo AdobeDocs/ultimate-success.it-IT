@@ -3,9 +3,9 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
+source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '296'
 ht-degree: 0%
 ---
 
@@ -65,4 +65,5 @@ ht-degree: 0%
   + {hide-from-toc}[Assistente di AEM AI e Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
   + {hide-from-toc}[Ridimensionamento della produzione con Designer e-mail per Campaign](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[Connessione degli investimenti agenti di IA all&#39;impatto aziendale](../contents/2026/ai-agentic-investments-to-business-impact.md)
+  + {hide-from-toc}[Adozione sostenibile di IA](../contents/2026/sustainable-ai-adoption.md)
 
