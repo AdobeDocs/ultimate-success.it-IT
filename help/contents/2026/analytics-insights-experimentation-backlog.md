@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I team di esperienza digitale spesso hanno accesso a dati analitici avanzati, ma non dispongono di un percorso chiaro da insight all’azione. Questa sessione esplora come estrarre sistematicamente Adobe Analytics e Customer Journey Analytics per i punti di attrito, trasformarli in ipotesi prioritarie e testabili e integrarli in Adobe Target e Journey Optimizer per l’ottimizzazione continua.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508245/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508272/?captions=ita&learn=on&enablevpops)
 
 ## Cosa Imparerai
 
