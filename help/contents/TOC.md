@@ -3,9 +3,9 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
+source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '318'
 ht-degree: 0%
 ---
 
@@ -67,4 +67,8 @@ ht-degree: 0%
   + {hide-from-toc}[Connessione degli investimenti agenti di IA all&#39;impatto aziendale](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc}[Adozione sostenibile di IA](../contents/2026/sustainable-ai-adoption.md)
   + {hide-from-toc}[Toolkit di IA per Marketo](../contents/2026/marketo-ai-toolkit.md)
+  + {hide-from-toc}[Risoluzione dei problemi di AJO](../contents/2026/ajo-troubleshooting.md)
+  + {hide-from-toc}[Collaboratore Adobe - Il tuo compagno di squadra AI](../contents/2026/coworker-ai-teammate.md)
+  + {hide-from-toc}[Trasformazione degli approfondimenti di Analytics in un backlog di sperimentazione](../contents/2026/analytics-insights-experimentation-backlog.md)
+  + {hide-from-toc}[Agenti Adobe AI in pratica](../contents/2026/adobe-ai-agents-in-practice.md)
 
