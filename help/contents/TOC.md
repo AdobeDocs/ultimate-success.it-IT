@@ -3,9 +3,9 @@ user-guide-title: Libreria di webinar Ultimate Success
 breadcrumb-title: Libreria di webinar Ultimate Success
 user-guide-description: Accedi alla nostra esclusiva libreria di webinar condotta da esperti per i clienti Ultimate Success, per padroneggiare rapidamente le best practice strategiche e tecniche che producono risultati di business misurabili.
 nudge: true
-source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
+source-git-commit: 35b838f2553e462a3f6e4f202e7440e049adef2f
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '322'
 ht-degree: 0%
 ---
 
@@ -71,4 +71,5 @@ ht-degree: 0%
   + {hide-from-toc}[Collaboratore Adobe - Il tuo compagno di squadra AI](../contents/2026/coworker-ai-teammate.md)
   + {hide-from-toc}[Trasformazione degli approfondimenti di Analytics in un backlog di sperimentazione](../contents/2026/analytics-insights-experimentation-backlog.md)
   + {hide-from-toc}[Agenti Adobe AI in pratica](../contents/2026/adobe-ai-agents-in-practice.md)
+  + {hide-from-toc}[Centro di eccellenza RTCDP](..//contents/2026/rtcdp-center-of-excellence.md)
 
