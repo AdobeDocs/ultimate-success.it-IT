@@ -22,7 +22,7 @@ ht-degree: 1%
 
 Come trasformare la complessità del pubblico in azione coordinata? Questa sessione pratica offre agli architetti e ai proprietari di piattaforme aziendali un framework per l’organizzazione di team, la proprietà, la governance, l’attivazione e la misurazione su Adobe Experience Platform e Real-Time CDP, in modo che le unità aziendali possano lavorare insieme con maggiore chiarezza e responsabilità.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508597/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508604/?captions=ita&learn=on&enablevpops)
 
 ## Conclusioni principali
 
